@@ -1,24 +1,15 @@
-# README
+### ancestry
+#### Records Image
+![image](screenshots/ancestry_records.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Queries on adding children
+![image](screenshots/ancestry_queries.png)
 
-Things you may want to cover:
 
-* Ruby version
+### awesome_nested_set
 
-* System dependencies
+#### Records Image
+![image](screenshots/nested_sets_records.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Queries on adding children
+![image](screenshots/nested_sets_queries.png)
