@@ -13,3 +13,13 @@
 
 #### Queries on adding children
 ![image](screenshots/nested_sets_queries.png)
+
+
+### closure_tree
+
+#### Records Image
+![image](screenshots/closure_tree_records.png)
+![image](screenshots/closure_tree_records_2.png)
+
+#### Queries on adding children
+![image](screenshots/closure_tree_queries.png)
